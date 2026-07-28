@@ -1,25 +1,25 @@
 {
   "brand": "@Raydikalx",
   "generator": "RaydikalxBot aggregator",
-  "updated_at": "2026-07-28T21:20:40.410655+00:00",
-  "updated_at_unix": 1785273640,
-  "next_update_eta": "2026-07-28T21:35:40.410655+00:00",
+  "updated_at": "2026-07-28T22:29:53.150066+00:00",
+  "updated_at_unix": 1785277793,
+  "next_update_eta": "2026-07-28T22:44:53.150066+00:00",
   "update_interval_minutes": 15,
-  "elapsed_seconds": 7.3,
+  "elapsed_seconds": 7.2,
   "raw_base": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main",
   "cdn_base": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main",
   "categories": {
     "all": {
-      "unique": 3565,
+      "unique": 3537,
       "broken": 1,
-      "duplicates": 5600,
-      "total_fetched": 9166,
+      "duplicates": 5676,
+      "total_fetched": 9214,
       "active_sources": 15,
       "protocols": {
-        "vless": 2468,
-        "trojan": 516,
-        "shadowsocks": 355,
-        "vmess": 167,
+        "vless": 2436,
+        "trojan": 518,
+        "shadowsocks": 359,
+        "vmess": 165,
         "hysteria2": 58,
         "tuic": 1
       },
@@ -31,16 +31,16 @@
       }
     },
     "heavy": {
-      "unique": 3359,
+      "unique": 3378,
       "broken": 1,
-      "duplicates": 4727,
-      "total_fetched": 8087,
+      "duplicates": 4854,
+      "total_fetched": 8233,
       "active_sources": 12,
       "protocols": {
-        "vless": 2326,
-        "trojan": 479,
-        "shadowsocks": 355,
-        "vmess": 167,
+        "vless": 2342,
+        "trojan": 480,
+        "shadowsocks": 359,
+        "vmess": 165,
         "hysteria2": 31,
         "tuic": 1
       },
@@ -52,17 +52,17 @@
       }
     },
     "light": {
-      "unique": 674,
+      "unique": 621,
       "broken": 0,
-      "duplicates": 405,
-      "total_fetched": 1079,
+      "duplicates": 360,
+      "total_fetched": 981,
       "active_sources": 3,
       "protocols": {
-        "vless": 445,
-        "trojan": 192,
+        "vless": 389,
+        "trojan": 193,
         "hysteria2": 32,
-        "shadowsocks": 4,
-        "vmess": 1
+        "shadowsocks": 5,
+        "vmess": 2
       },
       "files": {
         "configs_txt": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main/light/configs.txt",
@@ -73,10 +73,10 @@
     }
   },
   "protocols": {
-    "vless": 2468,
-    "trojan": 516,
-    "shadowsocks": 355,
-    "vmess": 167,
+    "vless": 2436,
+    "trojan": 518,
+    "shadowsocks": 359,
+    "vmess": 165,
     "hysteria2": 58,
     "tuic": 1,
     "shadowsocksr": 0,
