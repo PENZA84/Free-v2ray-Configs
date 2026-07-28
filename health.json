@@ -1,8 +1,8 @@
 {
   "brand": "@Raydikalx",
-  "checked_at": "2026-07-28T15:40:38.567959+00:00",
-  "checked_at_unix": 1785253238,
-  "elapsed_seconds": 7.4,
+  "checked_at": "2026-07-28T17:08:42.816139+00:00",
+  "checked_at_unix": 1785258522,
+  "elapsed_seconds": 6.8,
   "summary": {
     "total": 22,
     "ok": 15,
@@ -15,10 +15,10 @@
       "tier": "light",
       "name": "proxy_configs.txt",
       "status": "ok",
-      "count": 2646,
+      "count": 1089,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 85
+      "latency_ms": 509
     },
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
@@ -28,7 +28,7 @@
       "count": 3,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 88
+      "latency_ms": 41
     },
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
@@ -38,7 +38,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4612,
+      "latency_ms": 4607,
       "error": "empty body"
     },
     {
@@ -49,7 +49,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4586,
+      "latency_ms": 4607,
       "error": "empty body"
     },
     {
@@ -60,7 +60,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4607,
+      "latency_ms": 4639,
       "error": "empty body"
     },
     {
@@ -68,10 +68,10 @@
       "tier": "light",
       "name": "sub_1.txt",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 90
+      "latency_ms": 35
     },
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
@@ -81,7 +81,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4604,
+      "latency_ms": 4606,
       "error": "empty body"
     },
     {
@@ -92,7 +92,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4586,
+      "latency_ms": 4591,
       "error": "empty body"
     },
     {
@@ -103,7 +103,7 @@
       "count": 0,
       "http_code": 200,
       "attempts": 3,
-      "latency_ms": 4582,
+      "latency_ms": 4576,
       "error": "empty body"
     },
     {
@@ -114,17 +114,17 @@
       "count": 149,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 61
+      "latency_ms": 84
     },
     {
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_base64_Sub.txt",
       "tier": "heavy",
       "name": "All_Configs_base64_Sub.txt",
       "status": "ok",
-      "count": 6938,
+      "count": 6954,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 350
+      "latency_ms": 269
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt",
@@ -134,7 +134,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 20
+      "latency_ms": 94
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt",
@@ -144,7 +144,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 21
+      "latency_ms": 48
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no3.txt",
@@ -154,7 +154,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 72
+      "latency_ms": 66
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt",
@@ -164,7 +164,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 83
+      "latency_ms": 33
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt",
@@ -174,7 +174,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 11
+      "latency_ms": 48
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt",
@@ -184,7 +184,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 55
+      "latency_ms": 51
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt",
@@ -194,7 +194,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 9
+      "latency_ms": 27
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt",
@@ -204,7 +204,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 10
+      "latency_ms": 39
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt",
@@ -214,7 +214,7 @@
       "count": 20,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 10
+      "latency_ms": 38
     },
     {
       "url": "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
@@ -224,7 +224,7 @@
       "count": 0,
       "http_code": 404,
       "attempts": 3,
-      "latency_ms": 4564,
+      "latency_ms": 4595,
       "error": "HTTP 404"
     },
     {
@@ -232,10 +232,10 @@
       "tier": "heavy",
       "name": "VPN-cat",
       "status": "ok",
-      "count": 91,
+      "count": 988,
       "http_code": 200,
       "attempts": 1,
-      "latency_ms": 79
+      "latency_ms": 33
     }
   ]
 }
