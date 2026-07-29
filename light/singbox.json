@@ -581,7 +581,7 @@
         "Global 🌐 | @Raydikalx | 605",
         "CA 🇨🇦 | @Raydikalx | 606",
         "Global 🌐 | @Raydikalx | 607",
-        "Global 🌐 | @Raydikalx | 608",
+        "GB 🇬🇧 | @Raydikalx | 608",
         "Global 🌐 | @Raydikalx | 609"
       ],
       "default": "♻️ Auto"
@@ -1163,7 +1163,7 @@
         "Global 🌐 | @Raydikalx | 605",
         "CA 🇨🇦 | @Raydikalx | 606",
         "Global 🌐 | @Raydikalx | 607",
-        "Global 🌐 | @Raydikalx | 608",
+        "GB 🇬🇧 | @Raydikalx | 608",
         "Global 🌐 | @Raydikalx | 609"
       ],
       "url": "http://www.gstatic.com/generate_204",
@@ -11113,7 +11113,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "Global 🌐 | @Raydikalx | 608",
+      "tag": "GB 🇬🇧 | @Raydikalx | 608",
       "server": "141.98.101.179",
       "server_port": 443,
       "method": "aes-128-gcm",

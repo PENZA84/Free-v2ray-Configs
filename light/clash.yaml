@@ -6934,7 +6934,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: oZIoA69Q8yhcQV8ka3Pa3A
   udp: true
-- name: Global 🌐 | @Raydikalx | 608
+- name: GB 🇬🇧 | @Raydikalx | 608
   server: 141.98.101.179
   port: 443
   type: ss
@@ -7527,7 +7527,7 @@ proxy-groups:
   - Global 🌐 | @Raydikalx | 605
   - CA 🇨🇦 | @Raydikalx | 606
   - Global 🌐 | @Raydikalx | 607
-  - Global 🌐 | @Raydikalx | 608
+  - GB 🇬🇧 | @Raydikalx | 608
   - Global 🌐 | @Raydikalx | 609
 - name: ♻️ Auto
   type: url-test
@@ -8108,7 +8108,7 @@ proxy-groups:
   - Global 🌐 | @Raydikalx | 605
   - CA 🇨🇦 | @Raydikalx | 606
   - Global 🌐 | @Raydikalx | 607
-  - Global 🌐 | @Raydikalx | 608
+  - GB 🇬🇧 | @Raydikalx | 608
   - Global 🌐 | @Raydikalx | 609
 - name: 🔯 Fallback
   type: fallback

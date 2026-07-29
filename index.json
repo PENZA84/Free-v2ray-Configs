@@ -1,26 +1,26 @@
 {
   "brand": "@Raydikalx",
   "generator": "RaydikalxBot aggregator",
-  "updated_at": "2026-07-29T14:31:07.890634+00:00",
-  "updated_at_unix": 1785335467,
-  "next_update_eta": "2026-07-29T14:46:07.890634+00:00",
+  "updated_at": "2026-07-29T16:05:20.674968+00:00",
+  "updated_at_unix": 1785341120,
+  "next_update_eta": "2026-07-29T16:20:20.674968+00:00",
   "update_interval_minutes": 15,
-  "elapsed_seconds": 7.1,
+  "elapsed_seconds": 7.3,
   "raw_base": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main",
   "cdn_base": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main",
   "categories": {
     "all": {
-      "unique": 3283,
+      "unique": 3288,
       "broken": 1,
-      "duplicates": 4515,
-      "total_fetched": 7799,
+      "duplicates": 4590,
+      "total_fetched": 7879,
       "active_sources": 15,
       "protocols": {
         "vless": 2391,
-        "trojan": 398,
-        "shadowsocks": 307,
-        "vmess": 127,
-        "hysteria2": 59,
+        "trojan": 399,
+        "shadowsocks": 298,
+        "vmess": 139,
+        "hysteria2": 60,
         "tuic": 1
       },
       "files": {
@@ -31,17 +31,17 @@
       }
     },
     "heavy": {
-      "unique": 3008,
+      "unique": 3012,
       "broken": 1,
-      "duplicates": 3861,
-      "total_fetched": 6870,
+      "duplicates": 3937,
+      "total_fetched": 6950,
       "active_sources": 12,
       "protocols": {
-        "vless": 2183,
-        "trojan": 363,
-        "shadowsocks": 307,
-        "vmess": 126,
-        "hysteria2": 28,
+        "vless": 2179,
+        "trojan": 366,
+        "shadowsocks": 298,
+        "vmess": 139,
+        "hysteria2": 29,
         "tuic": 1
       },
       "files": {
@@ -74,10 +74,10 @@
   },
   "protocols": {
     "vless": 2391,
-    "trojan": 398,
-    "shadowsocks": 307,
-    "vmess": 127,
-    "hysteria2": 59,
+    "trojan": 399,
+    "shadowsocks": 298,
+    "vmess": 139,
+    "hysteria2": 60,
     "tuic": 1,
     "shadowsocksr": 0,
     "hysteria": 0,
