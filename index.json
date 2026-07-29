@@ -1,26 +1,26 @@
 {
   "brand": "@Raydikalx",
   "generator": "RaydikalxBot aggregator",
-  "updated_at": "2026-07-29T19:55:34.350016+00:00",
-  "updated_at_unix": 1785354934,
-  "next_update_eta": "2026-07-29T20:10:34.350016+00:00",
+  "updated_at": "2026-07-29T20:54:22.887504+00:00",
+  "updated_at_unix": 1785358462,
+  "next_update_eta": "2026-07-29T21:09:22.887504+00:00",
   "update_interval_minutes": 15,
-  "elapsed_seconds": 6.7,
+  "elapsed_seconds": 6.1,
   "raw_base": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main",
   "cdn_base": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main",
   "categories": {
     "all": {
-      "unique": 3415,
+      "unique": 3406,
       "broken": 1,
-      "duplicates": 4771,
-      "total_fetched": 8187,
+      "duplicates": 5003,
+      "total_fetched": 8410,
       "active_sources": 15,
       "protocols": {
-        "vless": 2453,
-        "trojan": 391,
+        "vless": 2444,
+        "trojan": 409,
         "shadowsocks": 326,
-        "vmess": 188,
-        "hysteria2": 56,
+        "vmess": 169,
+        "hysteria2": 57,
         "tuic": 1
       },
       "files": {
@@ -31,17 +31,17 @@
       }
     },
     "heavy": {
-      "unique": 3218,
+      "unique": 3210,
       "broken": 1,
-      "duplicates": 4122,
-      "total_fetched": 7341,
+      "duplicates": 4353,
+      "total_fetched": 7564,
       "active_sources": 12,
       "protocols": {
-        "vless": 2322,
-        "trojan": 354,
+        "vless": 2314,
+        "trojan": 372,
         "shadowsocks": 326,
-        "vmess": 187,
-        "hysteria2": 28,
+        "vmess": 168,
+        "hysteria2": 29,
         "tuic": 1
       },
       "files": {
@@ -73,11 +73,11 @@
     }
   },
   "protocols": {
-    "vless": 2453,
-    "trojan": 391,
+    "vless": 2444,
+    "trojan": 409,
     "shadowsocks": 326,
-    "vmess": 188,
-    "hysteria2": 56,
+    "vmess": 169,
+    "hysteria2": 57,
     "tuic": 1,
     "shadowsocksr": 0,
     "hysteria": 0,
