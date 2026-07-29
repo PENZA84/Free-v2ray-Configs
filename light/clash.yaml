@@ -6197,14 +6197,7 @@ proxies:
   password: tsuchiya
   udp: true
   sni: aa.ccmusic.jp
-- name: Global 🌐 | @Raydikalx | 547
-  server: 82.38.31.204
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  udp: true
-- name: CA 🇨🇦 | @Raydikalx | 548
+- name: CA 🇨🇦 | @Raydikalx | 547
   server: 158.51.121.63
   port: 443
   type: vmess
@@ -6219,14 +6212,14 @@ proxies:
     path: linkvws
     headers:
       Host: seribus.org
-- name: Global 🌐 | @Raydikalx | 549
+- name: Global 🌐 | @Raydikalx | 548
   server: 82.38.31.155
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: oZIoA69Q8yhcQV8ka3Pa3A
   udp: true
-- name: Global 🌐 | @Raydikalx | 550
+- name: Global 🌐 | @Raydikalx | 549
   server: 82.38.31.176
   port: 8080
   type: ss
@@ -6754,10 +6747,9 @@ proxy-groups:
   - US 🇺🇸 | @Raydikalx | 513
   - DE 🇩🇪 | @Raydikalx | 514
   - JP 🇯🇵 | @Raydikalx | 515
-  - Global 🌐 | @Raydikalx | 547
-  - CA 🇨🇦 | @Raydikalx | 548
+  - CA 🇨🇦 | @Raydikalx | 547
+  - Global 🌐 | @Raydikalx | 548
   - Global 🌐 | @Raydikalx | 549
-  - Global 🌐 | @Raydikalx | 550
 - name: ♻️ Auto
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -7279,10 +7271,9 @@ proxy-groups:
   - US 🇺🇸 | @Raydikalx | 513
   - DE 🇩🇪 | @Raydikalx | 514
   - JP 🇯🇵 | @Raydikalx | 515
-  - Global 🌐 | @Raydikalx | 547
-  - CA 🇨🇦 | @Raydikalx | 548
+  - CA 🇨🇦 | @Raydikalx | 547
+  - Global 🌐 | @Raydikalx | 548
   - Global 🌐 | @Raydikalx | 549
-  - Global 🌐 | @Raydikalx | 550
 - name: 🔯 Fallback
   type: fallback
   url: http://www.gstatic.com/generate_204
