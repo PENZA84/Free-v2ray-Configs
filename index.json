@@ -1,26 +1,26 @@
 {
   "brand": "@Raydikalx",
   "generator": "RaydikalxBot aggregator",
-  "updated_at": "2026-07-29T22:58:48.946376+00:00",
-  "updated_at_unix": 1785365928,
-  "next_update_eta": "2026-07-29T23:13:48.946376+00:00",
+  "updated_at": "2026-07-30T00:04:45.054816+00:00",
+  "updated_at_unix": 1785369885,
+  "next_update_eta": "2026-07-30T00:19:45.054816+00:00",
   "update_interval_minutes": 15,
-  "elapsed_seconds": 6.6,
+  "elapsed_seconds": 6.8,
   "raw_base": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main",
   "cdn_base": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main",
   "categories": {
     "all": {
-      "unique": 3662,
+      "unique": 3339,
       "broken": 1,
-      "duplicates": 5169,
-      "total_fetched": 8832,
+      "duplicates": 5048,
+      "total_fetched": 8388,
       "active_sources": 15,
       "protocols": {
-        "vless": 2613,
-        "shadowsocks": 420,
-        "trojan": 383,
-        "vmess": 188,
-        "hysteria2": 56,
+        "vless": 2432,
+        "trojan": 364,
+        "shadowsocks": 311,
+        "vmess": 173,
+        "hysteria2": 57,
         "tuic": 2
       },
       "files": {
@@ -31,17 +31,17 @@
       }
     },
     "heavy": {
-      "unique": 3464,
+      "unique": 3140,
       "broken": 1,
-      "duplicates": 4482,
-      "total_fetched": 7947,
+      "duplicates": 4362,
+      "total_fetched": 7503,
       "active_sources": 12,
       "protocols": {
-        "vless": 2479,
-        "shadowsocks": 420,
-        "trojan": 349,
-        "vmess": 187,
-        "hysteria2": 27,
+        "vless": 2296,
+        "trojan": 330,
+        "shadowsocks": 311,
+        "vmess": 173,
+        "hysteria2": 28,
         "tuic": 2
       },
       "files": {
@@ -73,11 +73,11 @@
     }
   },
   "protocols": {
-    "vless": 2613,
-    "shadowsocks": 420,
-    "trojan": 383,
-    "vmess": 188,
-    "hysteria2": 56,
+    "vless": 2432,
+    "trojan": 364,
+    "shadowsocks": 311,
+    "vmess": 173,
+    "hysteria2": 57,
     "tuic": 2,
     "shadowsocksr": 0,
     "hysteria": 0,
